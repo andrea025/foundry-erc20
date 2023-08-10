@@ -15,4 +15,5 @@ docs/
 .env
 
 lib/
+
 chat-gpt-prompt.txt
